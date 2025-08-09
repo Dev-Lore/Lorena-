@@ -7,9 +7,4 @@
 💡 Buscando: Estágio na área de tecnologia
 📩 Contato: lorena.lais@outlook.com | 📱 (71) 98755-8568 | https://www.linkedin.com/in/lorena-santos-a0a801199?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwH1ciBkyTvuUG8paDGtQoQ%3D%3D
 😄 Pronomes: Ela/Dela
-div>
-<a href="https://github.com/seu-Dev-Lore">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-![Snake animation](https://github.com/Dev-Lore/Dev-Lore/blob/output/github-contribution-grid-snake.svg)
+
